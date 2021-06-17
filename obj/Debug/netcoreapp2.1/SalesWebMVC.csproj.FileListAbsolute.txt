@@ -34,3 +34,7 @@ C:\Luiz\desenv_web\Curso_udemy\CursoPOO\SalesWebMVC\obj\Debug\netcoreapp2.1\Sale
 C:\Luiz\desenv_web\Curso_udemy\CursoPOO\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.genruntimeconfig.cache
 C:\Luiz\desenv_web\Curso_udemy\CursoPOO\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CopyComplete
 C:\Luiz\desenv_web\Curso_udemy\CursoPOO\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Luiz\desenv_web\Curso_udemy\CursoPOO\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Luiz\desenv_web\Curso_udemy\CursoPOO\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Luiz\desenv_web\Curso_udemy\CursoPOO\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Luiz\desenv_web\Curso_udemy\CursoPOO\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
